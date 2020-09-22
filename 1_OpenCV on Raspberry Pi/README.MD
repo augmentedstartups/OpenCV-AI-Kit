@@ -26,4 +26,6 @@
 ```sudo apt-get install libqtgui4```
 
 ```sudo apt-get install libqt4-test```
+
+4. Connect your device and try ```python3 test.py```
   
